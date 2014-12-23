@@ -1,0 +1,18 @@
+*Oligopoly*
+* A market structure in which only a few sellers offer similar or identical products
+* Strategic behavior
+* 	A firms decisions about P and Q can effect other firms and cause them to react. The firm will consider theses reations when making decisions
+* 	*Game Theory*
+* 		*Dominant Strategy*: A strategy that is best, disregrding the other "players"
+* 		*Prisoners Dilemma*
+
+*Smalltown*
+* 140 residents
+* *Good*: cell service
+
+*Competitive Market*
+* P = MC
+
+*Duopoly*
+* *Collusion*: agree on a price
+* *Cartel*: A group of firms colluding

@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html>
+	<body>
+		<div [[postano-embed]] >
+			<div [[curate]] ></div>
+			<div [[moderate]] ></div>
+			<div [[stream]] ></div>
+		</div>
+	</body>
+</html>
